@@ -1,4 +1,11 @@
-# practica3_200931  - Aplicación Flutter
+# Aplicación de Desarrollo Móvil - Practica 3 - Aplicación Flutter
+
+## Información General
+- **Creado por:** Uriel Maldonado Cortez
+- **Asignatura:** Desarrollo Movil Integral
+- **Grado:** 10
+- **Grupo:** A
+- **Docente:** MTI. Marco Antonio Ramirez Hernandez
 
 ## Descripción de la Aplicación
 
@@ -16,30 +23,16 @@ La aplicación consta de una única pantalla principal que muestra información 
 
 4. **Tema Personalizado**: La aplicación utiliza un tema personalizado con un esquema de colores definido. El color principal es un tono de rosa definido como `Color.fromARGB(255, 223, 19, 114)`.
 
-## Uso de la Aplicación
-
-La aplicación es simple y destinada principalmente a fines educativos. Para interactuar con la aplicación, siga estos pasos:
-
-1. Abra la aplicación en un emulador de Android o dispositivo físico compatible con Flutter.
-
-2. En la pantalla principal, verá su nombre y número de estudiante, junto con el contador inicializado en cero.
-
-3. Presione el botón de suma (ícono de "+") para incrementar el contador.
-
-4. El contador se actualizará en la pantalla cada vez que se presione el botón.
-
+## Instalación
+Para ejecutar esta aplicación, sigue estos pasos:
+1. Asegúrate de tener Flutter y Dart instalados en tu sistema.
+2. Clona este repositorio o descarga el código fuente.
+3. Abre una terminal en la carpeta del proyecto.
+4. Ejecuta `flutter pub get` para obtener las dependencias.
+5. Ejecuta `flutter run` para iniciar la aplicación en un emulador o dispositivo físico.
 ## Notas Adicionales
 
 Esta aplicación Flutter proporciona una introducción básica a la creación de aplicaciones móviles utilizando Flutter. Puede servir como punto de partida para el desarrollo de aplicaciones más complejas y avanzadas.
 
-## Información del Autor
 
-- **Nombre del Autor**: Uriel Maldonado Cortez
-- **Asignatura**: Desarrollo Movil Integral
-- **Grado**: 10
-- **Grupo**: "A"
-- **Docente**: MTI. Marco Antonio Ramirez Hernandez
 
-## Licencia
-
-Esta aplicación se proporciona bajo la licencia. Puede usar, modificar y distribuir libremente el código fuente de acuerdo con los términos de esta licencia. Consulte el archivo LICENSE incluido en el repositorio para obtener más detalles.
