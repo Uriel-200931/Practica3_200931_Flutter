@@ -42,4 +42,4 @@ Esta aplicación Flutter proporciona una introducción básica a la creación de
 
 ## Licencia
 
-Esta aplicación se proporciona bajo la licencia MIT. Puede usar, modificar y distribuir libremente el código fuente de acuerdo con los términos de esta licencia. Consulte el archivo LICENSE incluido en el repositorio para obtener más detalles.
+Esta aplicación se proporciona bajo la licencia. Puede usar, modificar y distribuir libremente el código fuente de acuerdo con los términos de esta licencia. Consulte el archivo LICENSE incluido en el repositorio para obtener más detalles.
